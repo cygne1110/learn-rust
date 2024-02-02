@@ -1,1 +1,3 @@
-Repository that will stores the programs I write whilst learning Rust on my own.
+# What I learned so far
+
+# What I need to learn
