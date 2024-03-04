@@ -33,15 +33,8 @@ fn test_vec3() {
 
 }
 
-fn foo(x: i32) -> i32 {
-    x + 1
-}
-
 fn main() {
 
-    let n: i32 = 5;
-    let y: i32 = foo(n);
-
-    println!("{} {}", y, n);
+    println!("Testing...");
 
 }
